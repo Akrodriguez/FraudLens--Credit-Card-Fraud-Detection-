@@ -32,7 +32,7 @@ End‑to‑end credit card fraud detection system with a full ML pipeline (EDA, 
 
 1. **Clone the repo**
 2. **Create a virtual environment (optional)**
-3. **Install dependencies(requirements.txt)**
+3. **Install dependencies(requirements.txt)---> pip install requirements.txt**
 4. **Train models (first time)**
 - Open `real_code.ipynb` in Jupyter / VS Code.
 - Run all cells to:
