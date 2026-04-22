@@ -44,11 +44,18 @@ End‑to‑end credit card fraud detection system with a full ML pipeline (EDA, 
     - `labelencoders.pkl`
     - `featurenames.pkl`
 - Place these files where  `app.py` expects them (e.g., a `models/` folder).
-
+  
 5. **Run the Streamlit app**
+
+---
    
 ## Dataset
 
 This project uses the public *Credit Card Transactions Fraud Detection* dataset from Kaggle.  
 Download it from Kaggle and place it in the project directory before running the training notebook.
 https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+---
+
+## Deployment Link
+- https://fraudlens-project01.streamlit.app/
