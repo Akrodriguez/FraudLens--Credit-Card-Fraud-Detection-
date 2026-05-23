@@ -210,8 +210,8 @@ __marimo__/
 data/
 *.csv
 
-models/
-*.pkl
+#models/
+#*.pkl
 
 # Jupyter outputs (optional, if you have many notebooks)
 .ipynb_checkpoints/
